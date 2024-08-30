@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import Cart from '../../assets/cart.svg'
+import Cart from '../../assets/Cart.svg'
 import styled from 'styled-components'
 
 const HeaderContainer = styled.header`
